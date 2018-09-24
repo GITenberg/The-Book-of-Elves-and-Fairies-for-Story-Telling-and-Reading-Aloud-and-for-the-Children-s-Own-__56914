@@ -1,5 +1,5 @@
 _repo: The-Book-of-Elves-and-Fairies-for-Story-Telling-and-Reading-Aloud-and-for-the-Children-s-Own-__56914
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   illustrator:
     agent_name: Winter, Milo
@@ -9,6 +9,9 @@ contributor:
     gutenberg_agent_id: '8180'
     url: http://www.gutenberg.org/2009/agents/8180
     wikipedia: http://en.wikipedia.org/wiki/Milo_Winter
+covers:
+- cover_type: archival
+  image_path: 56914-h/images/cover.jpg
 creator:
   author:
     agent_name: Olcott, Frances Jenkins
@@ -17,6 +20,8 @@ creator:
     gutenberg_agent_id: '198'
     url: http://www.gutenberg.org/2009/agents/198
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/56914#The-Book-of-Elves-and-Fairies-for-Story-Telling-and-Reading-Aloud-and-for-the-Children-s-Own-_
 gutenberg_issued: '2018-04-03'
 gutenberg_type: Text
 identifiers:

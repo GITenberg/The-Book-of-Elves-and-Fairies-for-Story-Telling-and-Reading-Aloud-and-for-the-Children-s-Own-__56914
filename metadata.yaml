@@ -1,0 +1,32 @@
+_repo: The-Book-of-Elves-and-Fairies-for-Story-Telling-and-Reading-Aloud-and-for-the-Children-s-Own-__56914
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Winter, Milo
+    alias: Winter, Milo Kendall
+    birthdate: 1888
+    deathdate: 1956
+    gutenberg_agent_id: '8180'
+    url: http://www.gutenberg.org/2009/agents/8180
+    wikipedia: http://en.wikipedia.org/wiki/Milo_Winter
+creator:
+  author:
+    agent_name: Olcott, Frances Jenkins
+    birthdate: 1872
+    deathdate: 1963
+    gutenberg_agent_id: '198'
+    url: http://www.gutenberg.org/2009/agents/198
+description: ''
+gutenberg_issued: '2018-04-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '56914'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The Book of Elves and Fairies for Story-Telling and Reading Aloud and for the
+  Children's Own Reading
+url: http://www.gutenberg.org/ebooks/56914
